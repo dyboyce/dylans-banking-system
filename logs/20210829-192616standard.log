@@ -1,0 +1,9 @@
+2021-08-29 19:26:28,639 - Reached end of input without valid response.
+2021-08-29 19:26:32,424 - Account Creation Error
+Traceback (most recent call last):
+  File "C:/Users/dylan/PycharmProjects/BankingSystem/run_here.py", line 73, in <module>
+    cr_strs[1], cr_strs[2],
+IndexError: list index out of range
+2021-08-29 19:26:32,424 - None
+2021-08-29 19:26:34,597 - Reached end of input without valid response.
+2021-08-29 19:26:36,851 - Exit command called.

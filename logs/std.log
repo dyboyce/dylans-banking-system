@@ -1,0 +1,7 @@
+2021-08-29 19:22:19,170 - Account Creation Error
+Traceback (most recent call last):
+  File "C:/Users/dylan/PycharmProjects/BankingSystem/run_here.py", line 72, in <module>
+    cr_strs[1], cr_strs[2],
+IndexError: list index out of range
+2021-08-29 19:22:19,171 - None
+2021-08-29 19:22:20,631 - Exit command called.
